@@ -15,7 +15,7 @@ function crazy() {
   // fix the code in here:
   thisIsCrazy();
 
-  var thisIsCrazy;
+  var thisIsCrazy();
   thisIsCrazy = function (){
     console.log("hey!!!")
   }
