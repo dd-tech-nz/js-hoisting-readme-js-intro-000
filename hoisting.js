@@ -7,7 +7,6 @@ function callMe() {
   var lyric;
   lyric = "maybe";
   return lyric;
-
 }
 
 
